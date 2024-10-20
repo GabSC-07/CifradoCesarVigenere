@@ -1,0 +1,15 @@
+{
+  "name": "cifrado_vigenere",
+  "version": "1.0.0",
+  "description": "holaaaaaaaaaaaaaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Gabriel Alfonso Serratos Cortés",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
